@@ -1,1 +1,3 @@
-CSCI
+CSC
+First Git Lecture
+
